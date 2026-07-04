@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: german
+movement: infantry
+move: 3
+xmove: 0
+attack: 1
+defense: 2
+armor: 1
+armor_def: true
+equipment: null
+equipment_q: 0
+name_brief: id_ger_inf3_dlc9_brief
+max_st: 7
+max_spec: 3
+

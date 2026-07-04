@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: hungarian
+movement: mobile
+move: 5
+xmove: 3
+attack: 4
+defense: 4
+armor: 2
+armor_def: false
+equipment: armor
+equipment_q: 1
+name_brief: id_hun_mot_39_brief
+max_st: 7
+max_spec: 3
+

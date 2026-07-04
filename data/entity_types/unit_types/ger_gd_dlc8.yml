@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: german
+movement: mobile
+move: 5
+xmove: 3
+attack: 9
+defense: 7
+armor: 6
+armor_def: false
+equipment: armor
+equipment_q: 2
+name_brief: id_ger_gd_dlc8_brief
+max_spec: 3
+max_st: 7
+

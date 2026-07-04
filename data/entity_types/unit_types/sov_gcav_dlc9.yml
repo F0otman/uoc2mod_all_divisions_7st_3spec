@@ -1,0 +1,14 @@
+﻿faction: soviet
+nationality: soviet
+movement: cavalry
+move: 5
+xmove: 2
+attack: 6
+defense: 3
+armor: 2
+equipment: null
+equipment_q: 0
+name_brief: id_sov_cav_44_brief
+max_spec: 3
+max_st: 7
+

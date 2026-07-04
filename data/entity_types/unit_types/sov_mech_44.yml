@@ -1,0 +1,14 @@
+﻿faction: soviet
+nationality: soviet
+movement: mobile
+move: 6
+xmove: 2
+attack: 5
+defense: 6
+armor: 5
+equipment: armor
+equipment_q: 2
+name_brief: id_sov_mech_44_brief
+max_spec: 3
+max_st: 7
+

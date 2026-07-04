@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: german
+movement: mobile
+move: 5
+xmove: 3
+attack: 7
+defense: 6
+armor: 2
+armor_def: false
+equipment: armor
+equipment_q: 1
+name_brief: id_ss_mot_40_brief  # SS Motorized
+max_st: 7
+max_spec: 3
+

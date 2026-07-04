@@ -1,0 +1,15 @@
+﻿faction: soviet
+nationality: czechoslovak_s
+movement: mobile
+move: 5
+xmove: 3
+attack: 3
+defense: 3
+armor: 2
+armor_def: false
+equipment: armor
+equipment_q: 1
+name_brief: id_cz_s_mot_dlc9_brief
+max_st: 7
+max_spec: 3
+

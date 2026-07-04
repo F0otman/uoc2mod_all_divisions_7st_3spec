@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: spanish
+movement: mobile
+move: 5
+xmove: 2
+attack: 4
+defense: 4
+armor: 1
+armor_def: true
+equipment: armor
+equipment_q: 1
+name_brief: id_spa_mot_dlc10_brief
+max_st: 7
+max_spec: 3
+

@@ -1,0 +1,15 @@
+﻿faction: allies
+nationality: dutch
+movement: mobile
+move: 4
+xmove: 2
+attack: 2
+defense: 3
+armor: 1
+armor_def: true
+equipment: armor
+equipment_q: 1
+max_st: 7
+max_spec: 3
+name_brief: id_nl_mot_40_brief  # Dutch Motorized Division
+

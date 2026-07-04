@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: german
+movement: cavalry
+move: 4
+xmove: 2
+attack: 3
+defense: 3
+armor: 1
+armor_def: true
+equipment: null
+equipment_q: 0
+max_st: 7
+max_spec: 3
+name_brief: id_ger_cav_39_brief  # German Cavalry
+

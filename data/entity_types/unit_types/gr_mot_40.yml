@@ -1,0 +1,15 @@
+﻿faction: allies
+nationality: greek
+movement: mobile
+move: 4
+xmove: 2
+attack: 3
+defense: 3
+armor: 2
+armor_def: false
+equipment: armor
+equipment_q: 1
+max_st: 7
+max_spec: 3
+name_brief: id_gr_mot_40_brief  # Greek Motorized Division
+

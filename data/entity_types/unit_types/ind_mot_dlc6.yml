@@ -1,0 +1,14 @@
+﻿faction: allies
+nationality: uk
+movement: mobile
+move: 5
+xmove: 2
+attack: 5
+defense: 5
+armor: 1
+equipment: armor
+equipment_q: 1
+max_st: 7
+max_spec: 3
+name_brief: id_ind_mot_dlc6_brief
+

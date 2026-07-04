@@ -1,0 +1,15 @@
+﻿faction: soviet
+nationality: czechoslovak_s
+movement: infantry
+move: 3
+xmove: 1
+attack: 5
+defense: 3
+armor: 1
+armor_def: true
+equipment: null
+equipment_q: 0
+name_brief: id_cz_s_inf_dlc9_brief
+max_st: 7
+max_spec: 3
+

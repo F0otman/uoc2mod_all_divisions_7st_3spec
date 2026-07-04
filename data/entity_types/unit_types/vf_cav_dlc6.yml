@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: vichy_french
+movement: cavalry
+move: 4
+xmove: 2
+attack: 3
+defense: 2
+armor: 1
+armor_def: false
+equipment: null
+equipment_q: 0
+max_st: 7
+max_spec: 3
+name_brief: id_vf_cav_dlc6_brief  # Vichy French Cavalry Division
+

@@ -1,0 +1,15 @@
+﻿faction: soviet
+nationality: bulgarian_s
+movement: cavalry
+move: 4
+xmove: 2
+attack: 3
+defense: 3
+armor: 1
+armor_def: true
+equipment: null
+equipment_q: 0
+name_brief: id_bul_cav_41_brief
+max_st: 7
+max_spec: 3
+

@@ -1,0 +1,15 @@
+﻿faction: axis
+nationality: german
+movement: mobile
+move: 5
+xmove: 2
+attack: 8
+defense: 5
+armor: 4
+armor_def: false
+equipment: armor
+equipment_q: 1
+name_brief: id_ger_pzgr_42_brief
+max_spec: 3
+max_st: 7
+
